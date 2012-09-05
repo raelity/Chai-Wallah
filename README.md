@@ -32,7 +32,7 @@ Each player is a Chai Wallah, a tea vendor, attempting to fulfill tea orders as 
 
 There are no turns in Chai Wallah: all players play simultaneously.
 
-The first player to fulfill 3 chai orders and yell "Chai!" and wins the game.
+The first player to fulfill 3 chai orders and yell "Chai!" wins the game.
 
 ## Serving suggestions ##
 
