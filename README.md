@@ -2,7 +2,7 @@
 
 **A spicy game of brewing and trading**
 
-**3-8 Players · Ages 7+ · 5+ Minutes**
+**4-8 Players · Ages 7+ · 5+ Minutes**
 
 Chai Wallah is a game about Indian tea vendors fulfilling rather particular orders for Chai — a bold, sweet, milky, spiced Indian tea.
 
@@ -11,10 +11,10 @@ Chai Wallah is a game about Indian tea vendors fulfilling rather particular orde
 ## Ingredients ##
 
 * 20 Chai order cards
-* 3-8 Tea dice (black)
-* 3-8 Spice dice (red)
-* 3-8 Sugar dice (brown)
-* 3-8 Milk dice (white)
+* 4-8 Tea dice (black)
+* 4-8 Spice dice (red)
+* 4-8 Sugar dice (brown)
+* 4-8 Milk dice (white)
 
 ## Preparation ##
 
@@ -44,11 +44,13 @@ Game play consists of two simultaneous activities, performed simultaneously by a
 
 ### Matching ###
 
-Players fulfill tea orders by matching their four ingredient dice with one of the face-up tea order cards. 
+Players fulfill tea orders by matching their four ingredient dice with one of the face-up tea order cards.
+
+**1s are wild, matching any number of the correct ingredient.** For example, a tea order requiring 5 spice would be considered fulfilled by rolling a 1 on a red Spice die.
 
 The first player to make a match yells "Chai!", halting the game temporarily...
 
-1. The player places their matching ingredient dice on the tea order card, allowing the other players to see that the correct tea was indeed prepared. 
+1. The player places their matching ingredient dice on the tea order card, allowing the other players to see that the correct tea was indeed prepared.
 1. The player takes their dice off the card and turns it over in front of them. 
 1. Turn over the top tea order card on the draw stack to replace the fulfilled order. 
 1. The player yells "Chai!", re-rolls all their ingredient dice, and the game resumes.
