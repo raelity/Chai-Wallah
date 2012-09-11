@@ -64,7 +64,7 @@ Players’ ingredient dice will not usually match one of the face-up tea orders 
 To brew a matching tea combination will require holding some ingredient dice and trading others with your fellow players...
 
 1. Cover one or more ingredient dice you’d like to trade with your hand. 
-1. Call out the ingredient or ingredients up for trade — only their type (e.g. "sugar"), not their value. 
+1. Call out the ingredient or ingredients up for trade — only their type (e.g. "sugar" or "sugar and spice"), not their value.
 1. Find a matching trade: another player calling out one or more of the same ingredients or offering to trade with you. 
 1. Agree on what ingredient or ingredients you’re trading. You must trade ingredients of the same type: sugar for sugar / sugar + tea for sugar + tea. 
 1. Simultaneously place the ingredient die or dice you’re trading in front of the other player without changing their value. 
@@ -83,6 +83,10 @@ I would certainly hope so. You’re dueling tea vendors in an Indian market vyin
 **Why is the sugar die brown?**
 
 Tea in rural India is traditionally prepared with [Jaggery](http://en.wikipedia.org/wiki/Jaggery), a golden-brown unrefined whole cane sugar.
+
+**Can you trade any number of dice?**
+
+Yes. You may trade a single die (e.g. "sugar"), multiple dice (e.g. "sugar and spice"), or, indeed, all of your dice by calling out "everything." This is the only way outside of matching a tea order of re-rolling all of your dice — and a helpful way to reset after someone claims the order you were going for.
 
 ## Design notes ##
 
