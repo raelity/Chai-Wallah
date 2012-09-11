@@ -46,7 +46,7 @@ Game play consists of two simultaneous activities, performed simultaneously by a
 
 Players fulfill tea orders by matching their four ingredient dice with one of the face-up tea order cards.
 
-**1s are wild, matching any number of the correct ingredient.** For example, a tea order requiring 5 spice would be considered fulfilled by rolling a 1 on a red Spice die.
+**1s are wild, matching any number of the correct ingredient.** For example, a tea order requiring 5 spice would be considered fulfilled by rolling a 1 on the red Spice die.
 
 The first player to make a match yells "Chai!", halting the game temporarily...
 
